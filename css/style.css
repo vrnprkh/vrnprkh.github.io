@@ -1,0 +1,16 @@
+p, li {
+  font-size: 1.75rem;
+}
+
+*{
+    background-color: #121212;
+
+}
+body{
+    color: #DEDEDE;
+
+}
+a {
+    color: #CE93D8; }
+  a:hover {
+    color: #BA68C8; }
