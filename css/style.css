@@ -1,16 +1,18 @@
 p, li {
-  font-size: 1.75rem;
-}
+    font-size: 1.75rem;
+    color: #DEDEDE;
+    
+  }
 
-*{
+h1 {
+    color:#DEDEDE;
+}
+body {
     background-color: #121212;
 
 }
-body{
-    color: #DEDEDE;
 
-}
 a {
     color: #CE93D8; }
-  a:hover {
+a:hover {
     color: #BA68C8; }
